@@ -1,10 +1,10 @@
 {"records":[
-    {"id":1,"name":"Tenzin","age":22,"dob":new Date("July 3,1999"),"gender":"Male","salary":50000,"Address":"Bangalore"},
-    {"id":2,"name":"Yeshi","age":23,"dob":new Date("May 21,1998"),"gender":"Female","salary":70000,"Address":"Mumbai"},
-    {"id":3,"name":"David","age":26,"dob":new Date("March 21,1995"),"gender":"Male","salary":40000,"Address":"Delhi"},
-    {"id":4,"name":"Emma","age":25,"dob":new Date("March 15,1996"),"gender":"Female","salary":34000,"Address":"Kolkata"},
-    {"id":5,"name":"Nailea","age":22,"dob":new Date("April 19,1999"),"gender":"Female","salary":66000,"Address":"Pune"},
-    {"id":6,"name":"Carly","age":21,"dob":new Date("September 4,2000)","gender":"Female","salary":21000,"Address":"Bangalore"},
-    {"id":7,"name":"Jeff","age":16,"dob":new Date("December 30,2004"),"gender":"Male","salary":39000,"Address":"Bangalore"},
-    {"id":8,"name":"Jason","age":19,"dob":new Date("January 15,2001"),"gender":"Male","salary":80000,"Address":"Delhi"}
+    {"id":1,"name":"Tenzin","age":22,dob:new Date("July 3,1999"),"gender":"Male","salary":50000,"Address":"Bangalore"},
+    {"id":2,"name":"Yeshi","age":23,dob:new Date("May 21,1998"),"gender":"Female","salary":70000,"Address":"Mumbai"},
+    {"id":3,"name":"David","age":26,dob:new Date("March 21,1995"),"gender":"Male","salary":40000,"Address":"Delhi"},
+    {"id":4,"name":"Emma","age":25,dob:new Date("March 15,1996"),"gender":"Female","salary":34000,"Address":"Kolkata"},
+    {"id":5,"name":"Nailea","age":22,dob:new Date("April 19,1999"),"gender":"Female","salary":66000,"Address":"Pune"},
+    {"id":6,"name":"Carly","age":21,dob:new Date("September 4,2000)","gender":"Female","salary":21000,"Address":"Bangalore"},
+    {"id":7,"name":"Jeff","age":16,dob:new Date("December 30,2004"),"gender":"Male","salary":39000,"Address":"Bangalore"},
+    {"id":8,"name":"Jason","age":19,dob:new Date("January 15,2001"),"gender":"Male","salary":80000,"Address":"Delhi"}
 ]}
